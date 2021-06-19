@@ -16,24 +16,26 @@
 .container-image{
     display: flex;
     justify-content: center;
+    background-image: url(/IMG/banner.jpg);
+    background-size: 600px;
     height: 189px;
     align-items: center;
     background-color: #E6E6E6;
 
 }
 .container-image img{
-    width: 100px; 
-    height: 110PX;
+    width: 150px; 
+    height: 180PX;
 
 }
 .container-title h1{
     height: 60px;
-    background-color: #c4c4c4;
+    background-color: #953B2C;
     display: flex;
     justify-content: center;
     align-items: center;
     letter-spacing: 10px;
-    color: #005677;
+    color: #FFFFFF;
     font-weight: bold;
     font-size: 35px;
     margin: 0;
@@ -48,11 +50,11 @@
 }
 .container-data h2{
     height: 30px;
-    background-color: #c4c4c4;
+    background-color: #953B2C;
     display: flex;
     justify-content: left;
     align-items: center;
-    color: #005677;
+    color: #FFFFFF;
     font-weight: bold;
     font-size: 20px;
     margin: 0;
@@ -67,7 +69,7 @@ font-style: italic;
 }
 .container-footer{
     height: 37px;
-    background-color: #005677;
+    background-color: #953B2C;
     display: flex;
     justify-content: center;
     align-items: center;
